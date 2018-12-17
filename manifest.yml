@@ -1,0 +1,7 @@
+---
+buildpack: nodejs_buildpack
+applications:
+- name: bar8_cf_exemplo01
+  command: npm start
+  memory: 256M
+  instances: 1

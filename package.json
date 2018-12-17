@@ -1,0 +1,18 @@
+{
+  "name": "bar8-cf-project-exemple-01",
+  "version": "1.0.0",
+  "description": "Example - How to Deploy an application using SCP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ErickFC@bitbucket.org/ErickFC/bar8-cf-exemplo01.git"
+  },
+  "author": "Erick Carvalho - Bar8",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
